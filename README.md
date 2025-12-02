@@ -7,7 +7,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working C++ and AiML<br>👯 I’m looking to collaborate on AiML researches<br>🤝 I’m looking for help with Data Structure<br>💬 Ask me about philosophy | Music | Novels | Tech conspirecy<br>⚡ Fun fact: After getting a female Labrador,I think women are dramatic and cute despite of species.
+🔭 I’m currently working upon my skills particularly on C++ and AiML<br>👯 I’m looking to collaborate on AiML researches<br>🤝 I’m looking for help with Maths and Algorithms <br>💬 Ask me about philosophy | Music | Novels | Tech conspirecy<br>⚡ Fun fact: After getting a female Labrador,I think women are dramatic and cute despite of species.
 
 
 ## 🌐 Socials:
@@ -22,5 +22,3 @@
 ---
 
 ![](https://visitcount.itsvg.in/api?id=swarupasdev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
