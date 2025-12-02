@@ -3,6 +3,10 @@
 I'm from Odisha, India. I have started my journey as an AiMl enthusiast 2 years ago. Now I am focusing on solving real world problem using aiml. A visionary person who has motives to alter and refurbish the technical stats of India. I want to contribute for people's growth and education through my skills and wisdom. I love philosophical debates and short stories of Dostevsky. The journey of contribution and growth starts from 5/01/25
 #### Skills: AI & Machine Learning / BCI(Brain-Computer Interface) / Pyhton / DSA / Problem Solving / TensorFlow.
 
+<p align="center">
+  <img src=".gif" width="400"/>
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working Java and AiML<br>👯 I’m looking to collaborate on AiML researches<br>🤝 I’m looking for help with Data Structure<br>🌱 I’m currently learning project managing<br>💬 Ask me about philosophy | Music | Novels | wildlife<br>⚡ Fun fact: I have a female Labrador. Now I think women are dramatic and cute despite species.
 
