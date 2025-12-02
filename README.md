@@ -4,7 +4,7 @@ I'm from Odisha, India. I have started my journey as an AiMl enthusiast 2 years 
 #### Skills: AI & Machine Learning / BCI(Brain-Computer Interface) / Pyhton / DSA / Problem Solving / TensorFlow.
 
 <p align="center">
-  <img src=".gif" width="400"/>
+  <img src="Mastermind, Pixel Jeff (1).gif" width="400"/>
 </p>
 
 # 💫 About Me:
