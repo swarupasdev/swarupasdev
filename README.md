@@ -7,7 +7,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working Java and AiML<br>👯 I’m looking to collaborate on AiML researches<br>🤝 I’m looking for help with Data Structure<br>🌱 I’m currently learning project managing<br>💬 Ask me about philosophy | Music | Novels | wildlife<br>⚡ Fun fact: I have a female Labrador. Now I think women are dramatic and cute despite species.
+🔭 I’m currently working C++ and AiML<br>👯 I’m looking to collaborate on AiML researches<br>🤝 I’m looking for help with Data Structure<br>💬 Ask me about philosophy | Music | Novels | Tech conspirecy<br>⚡ Fun fact: After getting a female Labrador,I think women are dramatic and cute despite of species.
 
 
 ## 🌐 Socials:
