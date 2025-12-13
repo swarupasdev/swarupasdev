@@ -18,3 +18,4 @@
 
 # 📊 GitHub Stats:
 [![swarupasdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarupasdev&show_icons=true&theme=dark)](https://github.com/swarupasdev/github-readme-stats)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=swarupasdev.swarupasdev)
