@@ -1,5 +1,5 @@
 ### HELLO, I'm Santiswarup. I am from India
-### A passionate Developer & a part time Singer
+### A passionate Developer & A part time Singer
 #### AI & Machine Learning | Backend learner | MATH | Problem Solving | Building scalable systems.
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working upon my skills particularly on C++ and AiML<br>👯 I’m looking to collaborate on AiML researches<br>🤝 I’m looking for help with Maths and Algorithms <br>💬 Ask me about philosophy | Music | Novels | Tech conspirecy<br>⚡ Fun fact: After getting a female Labrador,I think women are dramatic and cute despite of species.
+🔍 Interested in systems programming, algorithms, and building reliable software foundations.
 
 
 ## 🌐 Socials:
@@ -18,7 +18,12 @@
 
 # 📊 GitHub Stats:
 
+![Swarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarupasdev&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarupasdev&layout=compact&theme=tokyonight&hide_border=true)
+
 # 📝 Visitor Count:
 
+![Profile Views](https://komarev.com/ghpvc/?username=swarupasdev&label=Profile%20Views&color=0e75b6&style=flat)
 
 
